@@ -1,4 +1,4 @@
-# Your Guacamole recipe
+Guacamole recipe
 
 
 ## Ingredients
